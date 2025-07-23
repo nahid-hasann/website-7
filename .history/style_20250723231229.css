@@ -54,33 +54,25 @@ nav{
 
 /* header sesh  */
 
+.main{
+    width: 1140px;
+    margin: auto;
+}
+
 /* banner-section  */
 
 .banner{
-    margin: 230px auto 130px auto;
-    max-width: 1140px;
-
+    margin: 230px 0 130px 0;
 }
 
 .banner-section{
      display: flex;
      align-items: end;
-     justify-content: center;
-}
-
-.banner-description{
-    /* max-width: 500px; */
 }
 
 .banner-description h1{
     font-size: 65px;
-    font-weight: 800;
-
-}
-
-.banner-description p{
-    font-size: 22px;
-    color: #7b7c80;
+    font-
 }
 
 .banner-img img{
@@ -109,32 +101,5 @@ nav{
     .ul-li{
         display: none;
     }
-
-    .banner{
-        max-width: 575px;
-        margin-top: 70px ;
-        margin-bottom: 70px;
-    }
   
-    .banner-section{
-        flex-direction: column-reverse;
-
-    }
-
-    .banner-description{
-        margin-left: 30px;
-    }
-
-    .banner-description h1{
-    font-size: 24px;
-}
-
-.banner-description p{
-    font-size: 14px;
-}
-
-.banner-img img{
-    max-width: 400px;
-    margin-bottom: 80px;
-}
 }

@@ -54,18 +54,21 @@ nav{
 
 /* header sesh  */
 
+.main{
+    width: 1140px;
+    margin: auto;
+}
+
 /* banner-section  */
 
 .banner{
-    margin: 230px auto 130px auto;
-    max-width: 1140px;
-
+    margin: 230px 0 130px 0;
+    width: 1140px;
 }
 
 .banner-section{
      display: flex;
      align-items: end;
-     justify-content: center;
 }
 
 .banner-description{
@@ -111,18 +114,11 @@ nav{
     }
 
     .banner{
-        max-width: 575px;
-        margin-top: 70px ;
-        margin-bottom: 70px;
+        width: 500px;
     }
   
     .banner-section{
         flex-direction: column-reverse;
-
-    }
-
-    .banner-description{
-        margin-left: 30px;
     }
 
     .banner-description h1{
@@ -134,7 +130,6 @@ nav{
 }
 
 .banner-img img{
-    max-width: 400px;
-    margin-bottom: 80px;
+    max-width: 575px;
 }
 }

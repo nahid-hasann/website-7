@@ -112,8 +112,6 @@ nav{
 
     .banner{
         max-width: 575px;
-        margin-top: 70px ;
-        margin-bottom: 70px;
     }
   
     .banner-section{
@@ -134,7 +132,7 @@ nav{
 }
 
 .banner-img img{
-    max-width: 400px;
+    max-width: 575px;
     margin-bottom: 80px;
 }
 }

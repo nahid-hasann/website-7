@@ -57,9 +57,8 @@ nav{
 /* banner-section  */
 
 .banner{
-    margin: 230px auto 130px auto;
+    margin: 230px 0 130px 0;
     max-width: 1140px;
-
 }
 
 .banner-section{
@@ -111,9 +110,7 @@ nav{
     }
 
     .banner{
-        max-width: 575px;
-        margin-top: 70px ;
-        margin-bottom: 70px;
+        width: 500px;
     }
   
     .banner-section{
@@ -134,7 +131,7 @@ nav{
 }
 
 .banner-img img{
-    max-width: 400px;
+    max-width: 575px;
     margin-bottom: 80px;
 }
 }
