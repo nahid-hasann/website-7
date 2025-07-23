@@ -1,0 +1,42 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.noto-serif-nahid {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+body{
+    background-color: #f5f8ff;
+}
+
+
+
+/* header suru  */
+
+header{
+   margin: 30px auto;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-logo img{
+    width: 100%;
+}
+
+.nev-menu{
+    
+}
+/* header sesh  */

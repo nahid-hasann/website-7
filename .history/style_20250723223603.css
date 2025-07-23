@@ -1,0 +1,61 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.noto-serif-nahid {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+body{
+    background-color: #f5f8ff;
+}
+
+
+
+/* header suru  */
+
+header{
+   margin: 20px auto;
+   width: 1140px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-logo img{
+    width: 100%;
+}
+
+.nav-menu ul{
+     display: flex;
+     gap: 30px;
+     align-items: center;
+     justify-content: center;
+     margin: auto 0;
+}
+
+.nav-menu ul li{
+    color: rgba(137, 135, 161, 1);
+    font-weight: 400;
+}
+
+
+/* header sesh  */
+
+
+
+@media screen and (max-width:575px) {
+    header
+}
