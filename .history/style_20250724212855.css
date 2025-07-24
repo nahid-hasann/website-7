@@ -496,21 +496,10 @@ nav{
 
 .subscribe-section{
     height: 276px;
-    margin-top: 70px;
 }
 
 .subscribe-section h1{
-    font-size: 24px;
-}
-
-.subscibe input{
-    width: auto;
-    font-size: 12px;
-}
-
-.btn-2{
-    width: auto;
-    font-size: 14px;
+    
 }
 
 }

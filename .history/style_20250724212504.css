@@ -284,16 +284,13 @@ nav{
 /* subscribe-section start  */
 
 .subscribe-section{
-    margin: 130px 0 0 0;
+    margin: 130px 0;
     background: url('assets/news-letter-bg.png') ;
     height: 533px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
 }
 
 .subscribe-section h1{
@@ -311,13 +308,13 @@ nav{
 .subscibe input{
     background-color: white;
     width: 733px;
-    padding: 12px 50px 12px 15px;
+    padding: 15px 50px 15px 15px;
     
 }
 
 .btn-2{
     background-color: #e85a0a;
-    padding: 12px ;
+    padding: 15px ;
     color: white;
     width: 100px;
 }
@@ -494,23 +491,5 @@ nav{
     grid-row: 3;
 }
 
-.subscribe-section{
-    height: 276px;
-    margin-top: 70px;
-}
-
-.subscribe-section h1{
-    font-size: 24px;
-}
-
-.subscibe input{
-    width: auto;
-    font-size: 12px;
-}
-
-.btn-2{
-    width: auto;
-    font-size: 14px;
-}
 
 }

@@ -284,43 +284,11 @@ nav{
 /* subscribe-section start  */
 
 .subscribe-section{
-    margin: 130px 0 0 0;
-    background: url('assets/news-letter-bg.png') ;
-    height: 533px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    width: 1140px;
+    margin: 130px auto;
 }
 
-.subscribe-section h1{
-    font-size: 50px;
-    text-align: center;
-    margin-bottom: 30px;
-    color: white;
-    font-weight: 700;
-}
-
-.subscibe{
-    display: flex;
-}
-
-.subscibe input{
-    background-color: white;
-    width: 733px;
-    padding: 12px 50px 12px 15px;
-    
-}
-
-.btn-2{
-    background-color: #e85a0a;
-    padding: 12px ;
-    color: white;
-    width: 100px;
-}
+.subscribe-section h1
 
 /* subscribe-section end  */
 
@@ -494,23 +462,5 @@ nav{
     grid-row: 3;
 }
 
-.subscribe-section{
-    height: 276px;
-    margin-top: 70px;
-}
-
-.subscribe-section h1{
-    font-size: 24px;
-}
-
-.subscibe input{
-    width: auto;
-    font-size: 12px;
-}
-
-.btn-2{
-    width: auto;
-    font-size: 14px;
-}
 
 }
