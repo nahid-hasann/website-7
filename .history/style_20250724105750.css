@@ -68,6 +68,10 @@ nav{
      justify-content: center;
 }
 
+.banner-description{
+    /* max-width: 500px; */
+}
+
 .banner-description h1{
     font-size: 65px;
     font-weight: 800;
@@ -89,61 +93,12 @@ nav{
 
 .plants-section{
     width: 1140px;
-    margin: 130px auto;
-}
-
-.plants-section h1{
-    text-align: center;
-    font-size: 50px;
-    margin-bottom: 14px;
-    font-weight: 700;
-}
-
-.plants-card{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    gap: 30px;
-    row-gap: 60px;
-    margin-top: 60px;
-}
-
-.plants-section p{
-    font-size: 22px;
-    color: #7b7c80;
-    text-align: center;
-}
-
-.card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.card h4{
-    font-size: 22px;
-    font-weight: 300;
-    margin-top: 18px;
-}
-
-.card h2{
-    font-size: 22px;
-    font-weight: 700;
-    margin-bottom: 18px;
-}
-
-.btn{
-    background-color: #e85a0a;
-    width: 100%;
-    padding: 13px 0;
+    margin: 130px a;
 }
 
 /* plants-section sesh  */
 
 
-
-
-/* media screen  */
 
 @media screen and (max-width:575px) {
     header{

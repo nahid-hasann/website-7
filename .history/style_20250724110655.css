@@ -68,6 +68,10 @@ nav{
      justify-content: center;
 }
 
+.banner-description{
+    /* max-width: 500px; */
+}
+
 .banner-description h1{
     font-size: 65px;
     font-weight: 800;
@@ -99,14 +103,6 @@ nav{
     font-weight: 700;
 }
 
-.plants-card{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    gap: 30px;
-    row-gap: 60px;
-    margin-top: 60px;
-}
-
 .plants-section p{
     font-size: 22px;
     color: #7b7c80;
@@ -122,28 +118,18 @@ nav{
 
 .card h4{
     font-size: 22px;
-    font-weight: 300;
-    margin-top: 18px;
+    font-weight: 400;
+    
 }
 
 .card h2{
     font-size: 22px;
     font-weight: 700;
-    margin-bottom: 18px;
-}
-
-.btn{
-    background-color: #e85a0a;
-    width: 100%;
-    padding: 13px 0;
 }
 
 /* plants-section sesh  */
 
 
-
-
-/* media screen  */
 
 @media screen and (max-width:575px) {
     header{

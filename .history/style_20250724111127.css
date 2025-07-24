@@ -103,8 +103,7 @@ nav{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 30px;
-    row-gap: 60px;
-    margin-top: 60px;
+    row-gap: 50px;
 }
 
 .plants-section p{
