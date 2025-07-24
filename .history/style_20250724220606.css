@@ -533,7 +533,6 @@ nav{
 .subscribe-section{
     height: 276px;
     margin-top: 70px;
-    padding: 20px;
 }
 
 .subscribe-section h1{
@@ -546,7 +545,7 @@ nav{
 }
 
 .btn-2{
-    width: auto;
+    width: 100%;
     font-size: 14px;
 }
 
@@ -567,7 +566,6 @@ nav{
 .footer-4rth {
     justify-content: center;
     align-items: center;
-    gap: 20px;
 }
 
 }

@@ -533,7 +533,6 @@ nav{
 .subscribe-section{
     height: 276px;
     margin-top: 70px;
-    padding: 20px;
 }
 
 .subscribe-section h1{
@@ -541,7 +540,7 @@ nav{
 }
 
 .subscibe input{
-    width: 100%;
+    width: auto;
     font-size: 12px;
 }
 
@@ -550,24 +549,6 @@ nav{
     font-size: 14px;
 }
 
-.footer-section{
-    width: 100%;
-    grid-template-columns: 1fr;
-    padding: 40px 20px;
-}
-
-.footer-left p{
-     font-size: 14px;
-}
-
-.footer-2nd ul li{
-    font-size: 14px;
-}
-
-.footer-4rth {
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-}
+.footer-section
 
 }

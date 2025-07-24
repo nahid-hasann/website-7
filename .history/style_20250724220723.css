@@ -533,7 +533,7 @@ nav{
 .subscribe-section{
     height: 276px;
     margin-top: 70px;
-    padding: 20px;
+    padding: ;
 }
 
 .subscribe-section h1{
@@ -567,7 +567,6 @@ nav{
 .footer-4rth {
     justify-content: center;
     align-items: center;
-    gap: 20px;
 }
 
 }
