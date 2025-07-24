@@ -168,20 +168,6 @@ nav{
     right: -80px;
     width: 200px;
     z-index: 999;
-     animation-name: zoominout;
-    animation-timing-function: ease-in-out;
-    animation-iteration-count: infinite;
-    animation-duration: 4s;
-}
-
-@keyframes zoominout{
-    0%, 100%{
-        transform: scale(1);
-    }
-
-    50%{
-        transform: scale(1.1);
-    }
 }
 
 
@@ -291,8 +277,9 @@ nav{
 
 .badge-img{
     display: none;
+    animation-name: zoominout;
+    animation-timing-function: ;
 }
-
 
 .plants-lover-content h1{
     font-size: 24px;

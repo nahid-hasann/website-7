@@ -145,55 +145,19 @@ nav{
 
 .plants-lover-section{
     width: 1140px;
-    margin: 180px auto 130px auto;
+    margin: 130px auto;
 }
-
-
 
 .plants-lover-div{
      display: grid;
      grid-template-columns: 1fr 1fr;
     align-items: center;
     justify-content: center;
-    gap: 60px;
+    gap: 40px;
 }
 
-.plants-lover-img{
-    position: relative;
-}
-
-.badge-img{
-    position: absolute;
-    top: -80px;
-    right: -80px;
-    width: 200px;
-    z-index: 999;
-     animation-name: zoominout;
-    animation-timing-function: ease-in-out;
-    animation-iteration-count: infinite;
-    animation-duration: 4s;
-}
-
-@keyframes zoominout{
-    0%, 100%{
-        transform: scale(1);
-    }
-
-    50%{
-        transform: scale(1.1);
-    }
-}
-
-
-
-.plants-lover-content h1{
-     font-size: 50px;
-     font-weight: 700;
-}
-
-.plants-lover-content or li{
-    font-size: 22px;
-    color: #7b7c80;
+.plants-lover-content{
+    
 }
 
 /* plants-lover-section sesh  */
@@ -277,39 +241,6 @@ nav{
 
 .btn{
     font-size: 15px;
-}
-
-.plants-lover-section{
-    width: 100%;
-    margin: 70px 0;
-    padding: 0 20px;
-}
-
-.plants-lover-div{
-    grid-template-columns: 1fr;
-}
-
-.badge-img{
-    display: none;
-}
-
-
-.plants-lover-content h1{
-    font-size: 24px;
-    margin-top: -30px;
-}
-
-.plants-lover-content or li{
-    font-size: 14px;
-}
-
-.plants-lover-content or li:nth-child(2){
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
-
-.plants-lover-content or li:first-child{
-    margin-top: 15px;
 }
 
 }

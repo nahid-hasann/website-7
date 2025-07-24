@@ -168,21 +168,9 @@ nav{
     right: -80px;
     width: 200px;
     z-index: 999;
-     animation-name: zoominout;
-    animation-timing-function: ease-in-out;
-    animation-iteration-count: infinite;
-    animation-duration: 4s;
 }
 
-@keyframes zoominout{
-    0%, 100%{
-        transform: scale(1);
-    }
 
-    50%{
-        transform: scale(1.1);
-    }
-}
 
 
 

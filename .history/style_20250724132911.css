@@ -174,15 +174,7 @@ nav{
     animation-duration: 4s;
 }
 
-@keyframes zoominout{
-    0%, 100%{
-        transform: scale(1);
-    }
-
-    50%{
-        transform: scale(1.1);
-    }
-}
+@ke
 
 
 
