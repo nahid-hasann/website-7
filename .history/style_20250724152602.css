@@ -255,9 +255,7 @@ nav{
     height: 201px;
     grid-column: 1;
     grid-row: 1;
-     background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    
 }
 
 .big-card{
@@ -274,9 +272,6 @@ nav{
         height: 201px;
         grid-column: 1;
     grid-row: 2;
-     background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
 }
 
 /* offer-section end  */
