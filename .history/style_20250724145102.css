@@ -201,31 +201,13 @@ nav{
 
 /* offer-section start  */
 
-.offer-main-section{
-    width: 1140px;
-    margin: 130px auto;
-}
-
-.offer-main-section h1{
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-.offer-main-section p{
-    color: #7b7c80;
-    text-align: center;
-    margin-bottom: 100px;
-    font-size: 24px;
-}
-
 .offer-section{
     display: grid;
     grid-template-columns: 1fr 2fr;
-    margin: auto;
     width: 1140px;
+    margin: 130px auto;
     gap: 40px;
     grid-auto-rows: 201px;
-    margin-top: 50px;
 }
 
 .card{
@@ -397,40 +379,14 @@ nav{
     margin-top: 15px;
 }
 
-.offer-main-section{
-    width: 100%;
-    padding: 0 20px;
-    margin-top: 70px ;
-    margin-bottom: 70px;
-}
-
-.offer-main-section h1{
-    font-size: 24px;
-}
-
-.offer-main-section p{
-    font-size: 14px;
-    margin-top: 15px;
-}
-
 .offer-section{
     grid-template-columns: 1fr;
     width: 100%;
-    margin: 0px 0 70px 0;
+    margin: 70px 0;
     padding: 0 20px;
 }
 
-.card h3 {
-    font-size: 15px;
-}
 
-.card a{
-    font-size: 15px;
-}
-
-.big-card h2{
-    font-size: 15px;
-}
 
 .card-1{
     grid-column: 1;

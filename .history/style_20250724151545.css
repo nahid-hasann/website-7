@@ -208,13 +208,12 @@ nav{
 
 .offer-main-section h1{
     text-align: center;
-    margin-bottom: 20px;
 }
 
 .offer-main-section p{
     color: #7b7c80;
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     font-size: 24px;
 }
 
@@ -225,7 +224,6 @@ nav{
     width: 1140px;
     gap: 40px;
     grid-auto-rows: 201px;
-    margin-top: 50px;
 }
 
 .card{
@@ -409,14 +407,13 @@ nav{
 }
 
 .offer-main-section p{
-    font-size: 14px;
-    margin-top: 15px;
+    font-size: 14p;
 }
 
 .offer-section{
     grid-template-columns: 1fr;
     width: 100%;
-    margin: 0px 0 70px 0;
+    margin: 70px 0;
     padding: 0 20px;
 }
 
