@@ -347,10 +347,16 @@ nav{
     margin-bottom: 15px;
 }
 
+.footer-3rd ul li{
+       font-size: 22px;
+    color: #7e7e80;
+    margin-bottom: 15px;
+}
+
 .footer-4rth{
     display: flex;
     gap: 30px;
-    align-items: center;
+    border: 1px solid red;
 }
 
 .footer-4rth img{
