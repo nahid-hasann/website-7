@@ -195,7 +195,7 @@ nav{
     width: 100% ;
     padding: 0 20px ;
     margin: 70px 0;
-
+    /* border: 3px solid blue; */
 }
 
 .plants-card{
@@ -203,6 +203,7 @@ nav{
     grid-template-columns: 1fr 1fr;
     gap: 20px;
     row-gap: 40px;
+    /* border: 2px solid red; */
 }
 
 .plants-section h1{

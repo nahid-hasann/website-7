@@ -192,17 +192,18 @@ nav{
 }
 
 .plants-section{
-    width: 100% ;
-    padding: 0 20px ;
-    margin: 70px 0;
-
+    max-width: 575px;
+    margin: 70px 20px;
+    border: 3px solid blue;
 }
 
 .plants-card{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 171px 171px;
     gap: 20px;
     row-gap: 40px;
+    border: 2px solid red;
+    justify-content: center;
+    align-items: center;
 }
 
 .plants-section h1{
@@ -221,6 +222,7 @@ nav{
 }
 
 .btn{
+    width: 171px;
     font-size: 15px;
 }
 

@@ -192,26 +192,36 @@ nav{
 }
 
 .plants-section{
-    width: 100% ;
-    padding: 0 20px ;
+    width: 575px;
     margin: 70px 0;
-
 }
 
 .plants-card{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 257.5px 257.5px;
     gap: 20px;
     row-gap: 40px;
+    border: 2px solid red;
+    justify-content: center;
+    align-items: center;
 }
 
 .plants-section h1{
     font-size: 24px;
+    /* display: none; */
 }
 .plants-section p{
     font-size: 14px;
+
 }
 
+/* .card{
+    width: 171px;
+    
+} */
+
+/* .card img{
+    width: 171px;
+} */
 .card h4{
     font-size: 15px;
 }
@@ -221,6 +231,7 @@ nav{
 }
 
 .btn{
+    width: 171px;
     font-size: 15px;
 }
 
