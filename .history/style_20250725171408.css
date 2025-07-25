@@ -253,9 +253,9 @@ nav{
     color: white;
 }
 
-.big-card a{
-    margin-top: -14px;
-}
+/* .big-card a{
+    margin-top: -12px;
+} */
 
 .card-1{
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('assets/deal-bloom.png') ;
@@ -544,7 +544,7 @@ nav{
 }
 
 .big-card a{
-    margin-top: -14px;
+    margin-top: -12px;
 }
 
 .subscribe-section{

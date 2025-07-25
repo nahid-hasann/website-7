@@ -253,10 +253,6 @@ nav{
     color: white;
 }
 
-.big-card a{
-    margin-top: -14px;
-}
-
 .card-1{
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('assets/deal-bloom.png') ;
     height: 201px;
@@ -543,9 +539,7 @@ nav{
     grid-row: 3;
 }
 
-.big-card a{
-    margin-top: -14px;
-}
+.big card
 
 .subscribe-section{
     height: 276px;
