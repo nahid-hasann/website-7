@@ -139,7 +139,6 @@ nav{
     padding: 13px 0;
     color: white;
     cursor: pointer;
-    font-size: 20px;
 }
 
 /* plants-section sesh  */
@@ -452,8 +451,8 @@ nav{
     font-size: 15px;
 }
 
-.btn{
-    font-size: 12px;
+.btn {
+    font-size: 4px;
 }
 
 .plants-lover-section{
@@ -577,11 +576,6 @@ nav{
     justify-content: center;
     align-items: center;
     gap: 20px;
-}
-
-.footer-4rth img{
-    width: 20px;
-    height: 20px;
 }
 
 }

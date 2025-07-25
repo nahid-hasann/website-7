@@ -49,7 +49,7 @@ nav{
 .nav-menu ul li{
     color: rgba(137, 135, 161, 1);
     font-weight: 400;
-    cursor: pointer;
+    
 }
 
 
@@ -138,8 +138,6 @@ nav{
     width: 100%;
     padding: 13px 0;
     color: white;
-    cursor: pointer;
-    font-size: 20px;
 }
 
 /* plants-section sesh  */
@@ -316,11 +314,6 @@ nav{
     width: 733px;
     padding: 12px 50px 12px 15px;
     
-    
-}
-
-.subscibe input:focus{
-    outline: none;
 }
 
 .btn-2{
@@ -328,7 +321,6 @@ nav{
     padding: 12px ;
     color: white;
     width: 200px;
-    cursor: pointer;
 }
 
 /* subscribe-section end  */
@@ -453,7 +445,7 @@ nav{
 }
 
 .btn{
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .plants-lover-section{
@@ -577,11 +569,6 @@ nav{
     justify-content: center;
     align-items: center;
     gap: 20px;
-}
-
-.footer-4rth img{
-    width: 20px;
-    height: 20px;
 }
 
 }
